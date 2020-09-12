@@ -1,5 +1,4 @@
 
-> Open this page at [https://rianmagicbox.github.io/code-cubo-teste/](https://rianmagicbox.github.io/code-cubo-teste/)
 
 ## Use as Extension
 
@@ -29,3 +28,8 @@ This image may take a few minutes to refresh.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+# INTRODUÇÃO
+
+meu nome é rian tenho 11 anos sou brazileiro.
+
